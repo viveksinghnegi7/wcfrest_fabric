@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Contracts/obj/Debug
+/CoreService/bin/x64/Debug
+/CoreService/obj/x64/Debug
+/packages
+/FabricWCF/pkg/Debug
+*.suo
