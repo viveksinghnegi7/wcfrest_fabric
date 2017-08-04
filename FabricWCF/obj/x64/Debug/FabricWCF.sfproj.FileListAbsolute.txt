@@ -1,0 +1,1 @@
+D:\Projects\Azure\FabricWCF\FabricWCF\obj\x64\Debug\FabricWCF.sfprojResolveAssemblyReference.cache
